@@ -66,7 +66,7 @@ Com a redução do escopo, o desenvolvimento do MVP totaliza **280 horas**. Cons
 | **Backend (Core API)** | 60h |
 | **Mobile (App Aluno)** | 100h |
 | **QA e Deploy** | 40h |
-| **Total MVP** | **220 horas (~6 Semanas)** |
+| **Total MVP** | **220 horas (~7-8 Semanas / 2 Meses)** |
 
 ---
 
