@@ -34,16 +34,16 @@ pie title Distribuição das 490 Horas de Desenvolvimento
 
 ### Detalhamento das Fases
 
-| Fase | Atividade | Carga Horária |
-| :--- | :--- | :---: | :--- |
+| Fase | Atividade | Carga Horária | 
+| ----- | ----- | ----- | 
 | **1. Mobile (App Aluno)** | Frontend em React Native, navegação e telas de resolução. | **120h** |
-| **2. Backend (Core API)** | API com FastAPI, autenticação (JWT) e gestão do DB. | **80h** | 
-| **3. Motor Gamificação** | Cálculo de XP, moedas virtuais e lógica de desbloqueio. | **80h** | 
-| **4. Portal Web** | Interface administrativa para cadastro e métricas. | **70h** | 
-| **5. Integração IA** | APIs de IA, prompt engineering e validação de conteúdo. | **60h** | 
-| **6. QA e Deploy** | Testes de integração e publicação nas lojas (Play/App Store). | **50h** | 
-| **7. Arquitetura e Setup** | Desenho do BD (PostgreSQL), infraestrutura e nuvem. | **30h** | 
-| **Total** | | **490h** | |
+| **2. Backend (Core API)** | API com FastAPI, autenticação (JWT) e gestão do DB. | **80h** |
+| **3. Motor Gamificação** | Cálculo de XP, moedas virtuais e lógica de desbloqueio. | **80h** |
+| **4. Portal Web** | Interface administrativa para cadastro e métricas. | **70h** |
+| **5. Integração IA** | APIs de IA, prompt engineering e validação de conteúdo. | **60h** |
+| **6. QA e Deploy** | Testes de integração e publicação nas lojas (Play/App Store). | **50h** |
+| **7. Arquitetura e Setup** | Desenho do BD (PostgreSQL), infraestrutura e nuvem. | **30h** |
+| **Total** | | **490h** |
 
 ---
 ## Produto Mínimo Viável (MVP)
