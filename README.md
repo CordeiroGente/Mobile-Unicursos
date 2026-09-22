@@ -6,7 +6,7 @@ O **Aplicativo Mobile Unicursos** é uma plataforma desenvolvida para complement
 
 ---
 
-## 🧩 Principais Funcionalidades
+## Principais Funcionalidades
 
 - **Visão do Aluno:** Resolução de questões offline/online, acompanhamento via dashboard de desempenho, trilhas de concurso e sistema de gamificação (XP, níveis e moedas virtuais).
 - **Visão do Professor:** Gestão de conteúdo via portal web, análise de banco de dados (tempo de resolução e taxa de acerto) e disparo de notificações push.
@@ -15,7 +15,7 @@ O **Aplicativo Mobile Unicursos** é uma plataforma desenvolvida para complement
 
 ---
 
-## ⏱️ Estimativa de Tempo e Cronograma
+## Estimativa de Tempo e Cronograma
 
 O projeto foi dimensionado em módulos lógicos, totalizando **490 horas** de desenvolvimento. 
 
@@ -47,7 +47,7 @@ pie title Distribuição das 490 Horas de Desenvolvimento
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 - **Frontend Mobile:** React Native
 - **Backend API:** Python (FastAPI)
@@ -56,7 +56,7 @@ pie title Distribuição das 490 Horas de Desenvolvimento
 
 ---
 
-## 🚀 Como Executar o Projeto (Ambiente de Desenvolvimento)
+## Como Executar o Projeto (Ambiente de Desenvolvimento)
 
 *(Esta seção será preenchida com os comandos exatos de instalação conforme o código for enviado para o repositório).*
 
@@ -76,4 +76,4 @@ npx expo start
 ```
 
 ---
-*Desenvolvido sob medida para otimizar o tempo e a aprovação dos concurseiros da Unicursos.* 🚀
+*Desenvolvido sob medida para otimizar o tempo e a aprovação dos concurseiros da Unicursos.* 
