@@ -1,9 +1,6 @@
 # Unicursos Mobile App
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 O **Aplicativo Mobile Unicursos** é uma plataforma desenvolvida para complementar a preparação presencial dos alunos em São José dos Campos. Focado em turmas de alta concorrência (como Transpetro, TJ-SP, PMESP e Essencial para Concursos), o app permite a resolução de questões curadas estrategicamente pelos professores, aliando aprendizado à mobilidade e gamificação.
 
